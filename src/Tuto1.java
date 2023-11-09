@@ -1,0 +1,2 @@
+public class Tuto1 {
+}
